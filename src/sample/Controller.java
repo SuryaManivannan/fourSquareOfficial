@@ -24,7 +24,7 @@ public class Controller {
         changeButtonNumbers();
         setMethodAndTarget();
         timeline = new Timeline(new KeyFrame(
-                Duration.millis(9000),
+                Duration.millis(3000),
                 ae -> {
                     changeButtonNumbers();
                     setMethodAndTarget();

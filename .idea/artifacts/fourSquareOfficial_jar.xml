@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fourSquareOfficial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fourSquareOfficial_jar</output-path>
+    <root id="archive" name="fourSquareOfficial.jar">
+      <element id="module-output" name="fourSquareOfficial" />
+    </root>
+  </artifact>
+</component>
